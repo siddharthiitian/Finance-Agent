@@ -1,3 +1,8 @@
+
+<img width="1431" alt="Screenshot 2024-12-28 at 3 26 37 PM" src="https://github.com/user-attachments/assets/ebca148e-741c-4d56-b2ad-b6129c8b5d93" />
+<img width="549" alt="Screenshot 2024-12-28 at 3 26 52 PM" src="https://github.com/user-attachments/assets/cbaca7bf-5a46-4e38-b637-f3a1c2473534" />
+<img width="802" alt="Screenshot 2024-12-28 at 3 27 48 PM" src="https://github.com/user-attachments/assets/5dd1b23d-c46b-449f-8a4d-3a9b1ab2eb58" />
+
 Creating Independent AI Agents Using the PHIdata Framework
 
 Introduction to building agentic AI applications using the PHIData framework.
