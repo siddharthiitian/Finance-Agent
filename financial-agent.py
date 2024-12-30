@@ -30,10 +30,11 @@ financial_agent = Agent(
 )
  
 multi_agent = Agent(
+model = Groq(id = 'llama-3.1-70b-versatile'),
 team=[web_search_agent, financial_agent],
 instructions=['Always include the source of the information','Use tables to display the data'],
 show_tool_calls=True,
 markdown=True,
 )
 
-multi_agent.print_response('Summarize analyst recommendations and share the latest news for AAPL stock',stream=True)
+multi_agent.print_response('Summarize analyst recommendations and share the latest news for Nvidia stock',stream=True)
